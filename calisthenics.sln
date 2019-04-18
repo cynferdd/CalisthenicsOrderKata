@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calisthenics", "calisthenics\Calisthenics.csproj", "{B307A086-9C5F-40F5-A6D0-2C814A1D13A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calisthenics.Test", "Calisthenics.Test\Calisthenics.Test.csproj", "{E4938268-3B76-4B52-9518-11C8E3B8420A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B307A086-9C5F-40F5-A6D0-2C814A1D13A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B307A086-9C5F-40F5-A6D0-2C814A1D13A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B307A086-9C5F-40F5-A6D0-2C814A1D13A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B307A086-9C5F-40F5-A6D0-2C814A1D13A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4938268-3B76-4B52-9518-11C8E3B8420A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4938268-3B76-4B52-9518-11C8E3B8420A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4938268-3B76-4B52-9518-11C8E3B8420A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4938268-3B76-4B52-9518-11C8E3B8420A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2626E7FE-FF7E-42CC-9A60-CD1F1D2FC6F7}
+	EndGlobalSection
+EndGlobal

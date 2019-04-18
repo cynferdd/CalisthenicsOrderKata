@@ -3,3 +3,9 @@
 ################################################################################
 
 /calisthenics/bin/Debug
+/.vs
+/calisthenics/obj/Debug
+/Calisthenics.Test/bin/Debug
+/Calisthenics.Test/obj/Debug
+/Test/obj/Debug/netcoreapp2.1
+/packages
